@@ -1,0 +1,1 @@
+Docker image based on the openjdk Java 8 image, with awsebcli installed through pip
